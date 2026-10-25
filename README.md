@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mahmoud Kiki
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently devlopping Java / Kotlin, 
 - 📫 How to reach me [facebook](https://www.facebook.com/mahmoud.kiki.0/)
 
 <!---
